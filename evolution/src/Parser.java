@@ -12,7 +12,7 @@ public class Parser {
     private static final String[] FLOAT_PARAMETERS =
             new String[]{"inst_add_prob", "reproduction_prob", "inst_rem_prob", "inst_change_prob", "parents_energy_portion"};
 
-    private static final String MAX_LIST_OF_INSTR = "wilpj";
+    private static final String MAX_LIST_OF_INSTR = "eglrs";
 
     private static final String[] STRING_PARAMETERS = new String[]{"start_program", "inst_list"};
 

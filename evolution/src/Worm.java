@@ -24,11 +24,11 @@ public class Worm {
     
     static {
         HashMap<Character, Instruction> temp = new HashMap<>();
-        temp.put('j', Instruction.EAT);
-        temp.put('i', Instruction.GO);
+        temp.put('e', Instruction.EAT);
+        temp.put('g', Instruction.GO);
         temp.put('l', Instruction.LEFT);
-        temp.put('p', Instruction.RIGHT);
-        temp.put('w', Instruction.SNIFF);
+        temp.put('r', Instruction.RIGHT);
+        temp.put('s', Instruction.SNIFF);
         
         instMap = temp;
     }
