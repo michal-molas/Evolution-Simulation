@@ -1,11 +1,11 @@
 start_worms 100
-inst_list il
+inst_list gl
 start_energy 50
 inst_rem_prob 0.2
 round_cost 25
 reproduction_prob 0.2
 print_interval 500
-start_program ili
+start_program glg
 food_gain 100
 num_of_rounds 20000
 reproduction_limit 200

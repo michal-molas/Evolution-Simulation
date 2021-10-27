@@ -1,11 +1,11 @@
 start_worms 50
-inst_list wilpj
+inst_list sglre
 start_energy 50
 inst_rem_prob 0.2
 round_cost 25
 reproduction_prob 0.2
 print_interval 1000
-start_program wilij
+start_program sglge
 food_gain 50
 num_of_rounds 20000
 reproduction_limit 200
