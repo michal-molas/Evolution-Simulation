@@ -1,0 +1,15 @@
+start_worms 100
+inst_list wilp
+start_energy 100
+inst_rem_prob 0.45
+round_cost 25
+reproduction_prob 0.25
+print_interval 10000
+start_program wilji
+food_gain 50
+num_of_rounds 20000
+reproduction_limit 400
+food_growth_time 4
+inst_add_prob 0.05
+parents_energy_portion 0.2
+inst_change_prob 0.1

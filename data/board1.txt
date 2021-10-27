@@ -1,0 +1,8 @@
+x        x            
+  x    x     x    x   
+           x          
+xx   x  x    xxxxx    
+             xxxxx    
+    x        xxxxx    
+ x xxx  x          x  
+ xxxxx            xxx 
